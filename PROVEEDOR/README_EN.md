@@ -1,0 +1,1 @@
+https://github.com/s4afa451dgf415f/colab_stable_diffusion
